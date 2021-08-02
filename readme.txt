@@ -8,3 +8,4 @@ Creating a new branch by switch.
 Creating a new branch is quick and simple.
 git merge
 git merge compare
+git bug test
