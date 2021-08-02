@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 git merge
 git merge compare
 git bug test
+git remote test
